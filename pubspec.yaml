@@ -35,6 +35,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  flutter_tts: ^4.0.2   # Add this package for using Text to Speech
+  avatar_glow: ^3.0.1   # Add this package to add glow effect while talking
+  flutter_screenutil: ^5.9.3
+
 
 dev_dependencies:
   flutter_test:
